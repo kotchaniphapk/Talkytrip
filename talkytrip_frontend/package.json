@@ -1,0 +1,33 @@
+{
+  "name": "talkytrip_frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@editorjs/checklist": "^1.5.0",
+    "@editorjs/editorjs": "^2.26.5",
+    "@editorjs/embed": "^2.5.3",
+    "@editorjs/header": "^2.7.0",
+    "@editorjs/image": "^2.8.1",
+    "@editorjs/list": "^1.8.0",
+    "@editorjs/quote": "^2.5.0",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.10.0",
+    "react-use": "^17.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  }
+}
